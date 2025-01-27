@@ -1,4 +1,4 @@
-![Screenshot 2024-08-03 103116](https://github.com/user-attachments/assets/95376b61-8851-4912-8025-fb17f1af7a07)
+
 
 ## Getting Started
 
