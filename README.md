@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 42e8ace8531a5891e626821f954136d30ba1fbd4
 ## Getting Started
 
 First, run the development server:
